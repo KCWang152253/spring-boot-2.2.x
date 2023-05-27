@@ -66,6 +66,7 @@ class SpringApplicationAdminMXBeanRegistrarTests {
 		}
 	}
 
+
 	@Test
 	void validateReadyFlag() {
 		final ObjectName objectName = createObjectName(OBJECT_NAME);
